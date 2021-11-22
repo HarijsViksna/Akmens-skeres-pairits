@@ -1,14 +1,17 @@
 import random
 import logging
 import configparser
+import _mysql_connector
+
+
 logging.basicConfig(filename='AŠP.log',encoding='utf-8', level=logging.DEBUG, format='%(asctime)s %(message)s')
 config = configparser.ConfigParser()
 config.read('./config.ini')
 
 
-#Izvades teksts, kas uzaicina uz spēli un lūdz uzspiest Enter, lai to sāktu. 
+#Izvades teksts, kas uzaicina uz spēli un lūdz uzspiest Enter, lai to sāktu..
 username = input("Welcome to Rock, Paper, Scissors! Enter your name to start: ")
-print(username)
+
 #Spēlētāja un datora sākuma punktu skaits.
 user_wins = 0
 computer_wins = 0
