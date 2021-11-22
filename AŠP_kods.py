@@ -7,8 +7,8 @@ config.read('./config.ini')
 
 
 #Izvades teksts, kas uzaicina uz spēli un lūdz uzspiest Enter, lai to sāktu. 
-input("Welcome to Rock, Paper, Scissors! Press Enter to start.")
-print()
+username = input("Welcome to Rock, Paper, Scissors! Enter your name to start: ")
+print(username)
 #Spēlētāja un datora sākuma punktu skaits.
 user_wins = 0
 computer_wins = 0
