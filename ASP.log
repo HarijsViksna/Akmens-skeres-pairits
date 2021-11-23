@@ -1,0 +1,64 @@
+2021-11-22 16:31:53,050 Spēlētāja un datora uzvaras
+2021-11-22 16:32:08,491 Spēlētāja un datora uzvaras
+2021-11-22 16:32:20,314 Spēlētāja un datora uzvaras
+2021-11-22 16:32:26,882 Spēlētāja un datora uzvaras
+2021-11-22 16:32:34,964 Spēlētāja un datora uzvaras
+2021-11-23 11:51:22,236 Asteroid processing service
+2021-11-23 11:51:53,948 Spēlētāja un datora uzvaras
+2021-11-23 11:52:00,469 Asteroid processing service
+2021-11-23 11:52:06,402 Spēlētāja un datora uzvaras
+2021-11-23 11:52:09,810 Spēlētāja un datora uzvaras
+2021-11-23 11:53:26,050 Processing mysql config file
+2021-11-23 11:53:26,050 Connection to DB successful
+2021-11-23 11:53:35,787 Spēlētāja un datora uzvaras
+2021-11-23 11:56:28,267 Processing mysql config file
+2021-11-23 11:56:28,269 Connection to DB successful
+2021-11-23 11:56:33,698 Spēlētāja un datora uzvaras
+2021-11-23 11:57:11,211 Processing mysql config file
+2021-11-23 11:57:11,211 Connection to DB successful
+2021-11-23 11:57:16,794 Spēlētāja un datora uzvaras
+2021-11-23 11:59:06,199 Processing mysql config file
+2021-11-23 11:59:06,199 Connection to DB successful
+2021-11-23 11:59:14,562 Spēlētāja un datora uzvaras
+2021-11-23 11:59:46,695 Processing mysql config file
+2021-11-23 11:59:46,696 Connection to DB successful
+2021-11-23 11:59:50,915 Spēlētāja un datora uzvaras
+2021-11-23 11:59:53,899 Spēlētāja un datora uzvaras
+2021-11-23 12:01:28,504 Processing mysql config file
+2021-11-23 12:01:28,504 Connection to DB successful
+2021-11-23 12:01:31,299 Spēlētāja un datora uzvaras
+2021-11-23 12:02:17,826 Processing mysql config file
+2021-11-23 12:02:17,826 Connection to DB successful
+2021-11-23 12:02:21,001 Spēlētāja un datora uzvaras
+2021-11-23 12:02:50,513 Processing mysql config file
+2021-11-23 12:03:14,785 Processing mysql config file
+2021-11-23 12:03:23,071 Processing mysql config file
+2021-11-23 12:03:33,900 Processing mysql config file
+2021-11-23 12:04:03,880 Processing mysql config file
+2021-11-23 12:04:32,458 Processing mysql config file
+2021-11-23 12:04:37,898 Spēlētāja un datora uzvaras
+2021-11-23 12:04:38,729 INSERT INTO `ASP` (`Name`, `Wins`, `Loses`) VALUES ('test', '0', '1') 
+2021-11-23 12:04:38,730 Problem inserting asteroid values into DB: 1364 (HY000): Field 'ID' doesn't have a default value
+2021-11-23 12:05:13,276 Processing mysql config file
+2021-11-23 12:05:17,275 Spēlētāja un datora uzvaras
+2021-11-23 12:05:18,690 INSERT INTO `asp` (`Name`, `Wins`, `Loses`) VALUES ('TEST2', '1', '0') 
+2021-11-23 12:05:18,691 Problem inserting asteroid values into DB: 1364 (HY000): Field 'ID' doesn't have a default value
+2021-11-23 12:06:58,420 Processing mysql config file
+2021-11-23 12:07:04,147 Spēlētāja un datora uzvaras
+2021-11-23 12:07:20,764 Processing mysql config file
+2021-11-23 12:07:27,075 Spēlētāja un datora uzvaras
+2021-11-23 12:07:30,386 Spēlētāja un datora uzvaras
+2021-11-23 12:07:33,395 Spēlētāja un datora uzvaras
+2021-11-23 12:07:50,203 Spēlētāja un datora uzvaras
+2021-11-23 12:07:54,116 Spēlētāja un datora uzvaras
+2021-11-23 12:07:56,570 Spēlētāja un datora uzvaras
+2021-11-23 12:07:58,787 Spēlētāja un datora uzvaras
+2021-11-23 12:16:37,165 Processing mysql config file
+2021-11-23 12:16:54,585 CPU choice
+2021-11-23 12:17:00,201 User choice
+2021-11-23 12:17:00,201 Shows both choices
+2021-11-23 12:17:54,051 Processing mysql config file
+2021-11-23 12:17:56,569 CPU choice
+2021-11-23 12:17:58,578 User choice
+2021-11-23 12:17:58,579 Shows both choices
+2021-11-23 12:17:58,580 Spēlētāja uzvaras 0 un datora uzvaras 1
